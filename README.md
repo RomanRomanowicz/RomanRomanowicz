@@ -6,4 +6,4 @@
 
 ![Imgur Image](https://i.imgur.com/W0JfyHW.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Roman)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RomanRomanowicz)](https://github.com/ryo-ma/github-profile-trophy)
