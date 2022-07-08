@@ -6,6 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rr.romanowicz@gmail.com
 
-![Imgur Image](https://imgur.com/cljuf6i)
+![Imgur Image](https://i.imgur.com/KUgSbIp.gif)
 
 
